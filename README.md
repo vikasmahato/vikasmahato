@@ -1,6 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Vikas[website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](website)
+[![Website](https://img.shields.io/website?label=http://vikasmahato.github.io/me/&style=for-the-badge&url=https%3A%2F%2Fvikasmahato.github.io%2Fme)](website)
 
 Anyone can write code that a computer can understand. Good programmers write code that humans can understand.
 
@@ -12,7 +12,7 @@ Anyone can write code that a computer can understand. Good programmers write cod
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://vikasmahato.github.io/me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -43,7 +43,7 @@ Anyone can write code that a computer can understand. Good programmers write cod
 ➡️ [Libreoffice Gerrit profile](https://gerrit.libreoffice.org/q/owner:vikasmahato0%2540gmail.com)
 ---
 
-[website]: https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png
+[website]: http://vikasmahato.github.io/me/
 [twitter]: https://twitter.com/VikasMahato5
 [instagram]: https://www.instagram.com/camera.wala.dost/
 [linkedin]: https://www.linkedin.com/in/vikas-mahato/
