@@ -1,6 +1,6 @@
 ### Hi there, I'm Vikas👋
 
-[![Website](https://img.shields.io/website?label=http://vikasmahato.github.io/me/&style=for-the-badge)](website)
+[https://img.shields.io/website?label=http://vikasmahato.github.io/me/&style=for-the-badge&url=https%3A%2F%2Fvikasmahato.github.io%2Fme](http://vikasmahato.github.io/me/)
 
 Anyone can write code that a computer can understand. Good programmers write code that humans can understand.
 
