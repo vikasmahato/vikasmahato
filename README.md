@@ -2,7 +2,7 @@
 
 [Website](http://vikasmahato.github.io/me/)
 
-Anyone can write code that a computer can understand. Good programmers write code that humans can understand.
+Anyone can write code for computer. Good programmers write code for humans.
 
 ## I'm a Mechanical engineer turned Software engineer!!
 
