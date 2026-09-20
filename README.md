@@ -63,8 +63,17 @@
 ### 📊 The numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vikasmahato&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=3F8CFF&icon_color=3F8CFF" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasmahato&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=3F8CFF" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikasmahato&theme=github_dark" alt="Profile summary">
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikasmahato&theme=github_dark" alt="Repos per language">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikasmahato&theme=github_dark" alt="Most commit language">
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikasmahato&theme=github_dark" alt="Stats">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vikasmahato&theme=github_dark&utcOffset=5.5" alt="Productive time">
 </p>
 
 <p align="center">
